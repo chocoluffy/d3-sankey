@@ -11,7 +11,7 @@
 	],
 	"links": [
 		{
-			"source": 0,
+			"source": 0, // source node's index
 			"target": 1,
 			"value": 2
 		}
